@@ -1,0 +1,17 @@
+<!-- <div class="row">
+                    <div class="col-12 mt-4">
+                        <nav class="fixed-top nav justify-content-center nav-fixed">
+                            <img src="img/LogoAcademia.jpeg" alt="" width="90px" height="50px">
+                            <a href="" class="nav-link">Actualidad</a>
+                            <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Eventos</a>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownId">
+                                        <a class="dropdown-item" href="#">Partidos</a>
+                                        <a class="dropdown-item" href="#">Entrenamientos</a>
+                                    </div>
+                            </li>
+                            <a href="" class="nav-link">Resultados</a>
+                            <a href="" class="nav-link">Jugadores</a>
+                        </nav>
+                    </div>
+                </div> -->
