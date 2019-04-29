@@ -47,3 +47,6 @@ body{
     padding: .6rem 1.3rem;
     font-size: 1.1rem;
 }
+.home-interior img{
+    position: fixed;
+}
