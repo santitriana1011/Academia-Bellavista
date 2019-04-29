@@ -3,3 +3,13 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.container{
+    background-color: rgba(0, 0, 0, 0.40);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ECF0F1;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.51);
+    color: white;   
+    padding: 4%;
+}
