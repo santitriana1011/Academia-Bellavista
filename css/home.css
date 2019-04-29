@@ -80,3 +80,12 @@ background-position: center center;
     position: fixed;
 }
 
+#carouselId{
+    width: 100%;
+    height: 80%;
+}
+
+.titulos{
+    color: black;
+}
+
