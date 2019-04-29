@@ -28,7 +28,7 @@ background-position: center center;
 .subtitulo{
     width: 100%;
     max-width: 100%;
-    /* position: absolute; */
+
     top: 30%;
     z-index: 1;
     color: white;
@@ -52,6 +52,7 @@ background-position: center center;
     font-size: 1.1rem;
 }
 
+
 .progress{
     margin-top: 2%;
     margin-bottom: 2%;
@@ -70,6 +71,10 @@ background-position: center center;
   }
 
 
+
+.home-interior img{
+    position: fixed;
+}
 
 .home-interior img{
     position: fixed;
