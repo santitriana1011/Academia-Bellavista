@@ -67,3 +67,10 @@ body{
 .titulos{
     color: black;
 }
+
+footer{
+    background: rgba(0, 0, 0, 0.6)!important;
+    color: white;
+    margin-top: 250px;
+    text-align: center;
+}
